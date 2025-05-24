@@ -53,8 +53,5 @@ Check out the [Live Demo](https://educasereactjsdesign.netlify.app)
 Aryan Patil
 https://github.com/Aryanpatil1710
 
-1. **Create an `assets/` folder** in your project root.
-2. Save a UI screenshot as: `assets/welcome-preview.png`.
-3. **Replace** the `https://your-netlify-link.netlify.app/` with your actual Netlify live link (if deployed).
 
 
