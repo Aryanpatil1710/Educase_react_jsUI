@@ -45,7 +45,7 @@ npm install
 npm run dev
 
 🌐 Deployment
-Deployed on Netlify: Live Demo
+Deployed on Netlify: https://educasereactjsdesign.netlify.app/
 
 ✍️ Author
 Aryan Patil
