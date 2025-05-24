@@ -44,8 +44,10 @@ cd Educase_react_jsUI
 npm install
 npm run dev
 
-🌐 Deployment
-Deployed on Netlify: https://educasereactjsdesign.netlify.app/
+## 🌐 Deployment
+
+Check out the [Live Demo](https://educasereactjsdesign.netlify.app)
+
 
 ✍️ Author
 Aryan Patil
