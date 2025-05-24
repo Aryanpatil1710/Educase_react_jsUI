@@ -37,7 +37,7 @@ educase-qualifier-task/
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+ Clone the Repository
 ```bash
 git clone https://github.com/Aryanpatil1710/Educase_react_jsUI.git
 cd Educase_react_jsUI
@@ -51,11 +51,6 @@ Deployed on Netlify: https://educasereactjsdesign.netlify.app/
 Aryan Patil
 https://github.com/Aryanpatil1710
 
-📄 License
-
----
-
-### ✅ What You Should Do Now:
 1. **Create an `assets/` folder** in your project root.
 2. Save a UI screenshot as: `assets/welcome-preview.png`.
 3. **Replace** the `https://your-netlify-link.netlify.app/` with your actual Netlify live link (if deployed).
